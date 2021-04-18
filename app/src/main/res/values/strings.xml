@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">yemain</string>
+    <string name="app_verison">1.0.1.beta</string>
+    <string name="btn_message">登录</string>
+</resources>
